@@ -66,7 +66,7 @@ If still having problem then send us an email or direct message on twitter.
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
 
 
-##Disclaimer
+## Disclaimer
 Börsdata and the information contained herein is not intended to be a source of advice or credit analysis with respect to the material presented, and the information and/or documents contained in this website do not constitute investment advice.  
 The user is responsible for the risk and should therefore acquire information about the terms that apply to trade with such instruments, and about the qualities of the instruments. Placements or other positions in financial instruments such as stock is done at your own risk.  
 Börsdata cannot in any way be held responsible for any investment decisions that result from the financial information on the website.
