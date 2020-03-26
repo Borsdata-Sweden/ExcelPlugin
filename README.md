@@ -1,3 +1,5 @@
+# WORK IN PROGRESS!!
+
 # ExcelPlugin
 Borsdata ExcelPlugin is a plugin you install to your local Excel application. (link to install)
 When it's installed you get access to serveral new functions to directly call the Börsdata API.
