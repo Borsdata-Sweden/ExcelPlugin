@@ -19,7 +19,7 @@ We are happy for all feedback on how to improve the API and ExcelPlugin.
 	3. Check if your Excel is installed as 32bit or 64bit. (Link)  
 	4. Install plugin in Excel (länk till ny sida)  
 	5. Enter API Key in Borsdata Excel plugin  
-  6. Done
+	6. Done
 
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.
@@ -59,7 +59,8 @@ More info
 https://support.office.com/en-us/article/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531
 
 ## Support
-Make sure to read the documentation - this will avoid repeated questions.Send us an email or direct message on twitter.
+Make sure to read the documentation - this will avoid repeated questions.
+If still having problem then send us an email or direct message on twitter.  
 
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
