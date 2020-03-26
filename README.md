@@ -6,8 +6,8 @@ You have access to all data from Borsdata API like Stockprices, reportdata and K
 To use Borsdata ExcelPlugin you need to be a PRO borsdata member and having an API Key.
 To apply for an API Key you can read more here.  
 
-Borsdata ExcelPlugin are an extension to Borsdata API.
-In the background the ExcelPlugin calling the API to get data and formats the data to fit into excel.
+Borsdata ExcelPlugin are an extension to Borsdata API.  
+In the background the ExcelPlugin calling the API to get data and formats the data to fit into excel.  
 It has the same limitations, like number of requests, as the normal API, so if you have many functions it can take some time to load all data.  
 
 Some functions in ExcelPlugin is not so easy to use and you may need to check the API documentations to understand how to call some data.
