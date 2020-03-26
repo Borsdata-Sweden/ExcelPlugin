@@ -27,6 +27,9 @@ Only Pro Members in Nordic Country can Apply for API Key.
 
 If you have an API Key and lose the Pro Membership you will be given a new API Key when you restart the Pro membership. Then Please check your accounts MyPage to see the new API Key.
 
+## Functions
+https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
+
 ## Instruments (InstId)
 An Instrument at Börsdata is normaly a company or index.   
 Anything that has a price or report data is an Instrument.  
