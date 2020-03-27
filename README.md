@@ -15,22 +15,25 @@ It has the same limitations, like number of requests, as the normal API, so if y
 Some functions in ExcelPlugin is not so easy to use and you may need to check the API documentations to understand how to call some data.
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
-## Get Started  
-	1. If you dont have an Api Key you need to apply for one as PRO member of Börsdata. (Link)  
-	2. Download Zip file from github and unpack to local folder  
-	3. Check if your Excel is installed as 32bit or 64bit. (Link)  
-	4. Install plugin in Excel (länk till ny sida)  
-	5. Enter API Key in Borsdata Excel plugin  
-	6. Done
+## Installation  
+
+[Go to installation page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)
+
 
 ## API Key
-If you dont have an API KEY you need to Apply for it on Börsdata MyPage.
-Only Pro Members in Nordic Country can Apply for API Key.  
+If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
+Only Pro Members in Nordic Country can Apply for API Key.    
 
-If you have an API Key and lose the Pro Membership you will be given a new API Key when you restart the Pro membership. Then Please check your accounts MyPage to see the new API Key.
+If you have an API Key and lose the Pro Membership you will be given a new API Key when you restart the Pro membership.   
+Then Please check your accounts MyPage to see the new API Key.
+
+[Go to Api Info](https://borsdata.se/en/info/api/api_page)
+
 
 ## Functions
-https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
+[Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
+)
+
 
 ## Instruments (InstId)
 An Instrument at Börsdata is normaly a company or index.   
@@ -51,9 +54,9 @@ https://github.com/Borsdata-Sweden/API/wiki/KPI-Screener
 
 
 ## Dynamic Array
-Börsdata Excel Addin can return data to excel in two ways.
-	1. Write data in cells around the formula (Old style).
-	2. Or as Dynamic Array if you have the latest excel version that support this option.
+Börsdata Excel Addin can return data to excel in two ways.  
+	1. Write data in cells around the formula (Old style).  
+	2. Or as Dynamic Array if you have the latest excel version that support this option.  
 
 If your Excel does not support Dynamic Array you will se a text in the support panel.
 If your Excel support Dynamic Array you can select if you like to use Dynamic Array.
