@@ -1,22 +1,28 @@
 # WORK IN PROGRESS!!
 
 # ExcelPlugin
-Borsdata ExcelPlugin is a plugin you install to your local Excel application. (link to install)
-When it's installed you get access to serveral new functions to directly call the Börsdata API.
-You have access to all data from Borsdata API like Stockprices, reportdata and Kpis.  
+Börsdata ExcelPlugin is a plugin/addin you install to your local Excel application.
+When it's installed you get access to serveral new Excel functions to directly call the Börsdata API.   
+You have access to all data from Börsdata API like Stockprices, reportdata and Kpis.  
 
-To use Borsdata ExcelPlugin you need to be a PRO borsdata member and having an API Key.
-To apply for an API Key you can read more here.  
+To use Börsdata ExcelPlugin you need to be a PRO Börsdata member and having an API Key.
 
-Borsdata ExcelPlugin are an extension to Borsdata API.  
+Börsdata ExcelPlugin are an extension to Börsdata API.  
 In the background the ExcelPlugin calling the API to get data and formats the data to fit into excel.  
 It has the same limitations, like number of requests, as the normal API, so if you have many functions it can take some time to load all data.  
 
 Some functions in ExcelPlugin is not so easy to use and you may need to check the API documentations to understand how to call some data.
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
-## Installation  
+## Supported Excel versions
+Only windows versions.   
+Sorry - ExcelPlugin on Mac is not working.  
+- Excel 2010 (v14)
+- Excel 2013 (v15)
+- Excel 2016 (v16)
+- Excel in office 365
 
+## Installation  
 [Go to installation page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)
 
 
