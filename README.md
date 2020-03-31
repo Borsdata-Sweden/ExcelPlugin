@@ -35,8 +35,11 @@ Then Please check your accounts MyPage to see the new API Key.
 [Go to Api Info](https://borsdata.se/en/info/api/api_page)
 
 ## Functions
-[Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
+[Go to Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
 )
+
+## Plugin Buttons
+[Go to button page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Excel-Buttons)
 
 ## Instruments (InstId)
 An Instrument at Börsdata is normaly a company or index.   
