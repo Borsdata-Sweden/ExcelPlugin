@@ -25,7 +25,6 @@ Sorry - ExcelPlugin on Mac is not working.
 ## Installation  
 [Go to installation page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)
 
-
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
 Only Pro Members in Nordic Country can Apply for API Key.    
@@ -35,11 +34,9 @@ Then Please check your accounts MyPage to see the new API Key.
 
 [Go to Api Info](https://borsdata.se/en/info/api/api_page)
 
-
 ## Functions
 [Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
 )
-
 
 ## Instruments (InstId)
 An Instrument at Börsdata is normaly a company or index.   
@@ -72,13 +69,22 @@ Link…
 More info  
 https://support.office.com/en-us/article/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531
 
+## Language support
+You can select if you like English or Swedish translation.  
+You find checkbox in [Settings panel](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Excel-Buttons).
+
+## Date format 
+In first version the Börsdata Excel plugin returns unformated data to excel cells.  
+This means that Date is returned as a numeric value and you need to select cells and format to datetime.  
+(Internaly in excel all dates is a numeric value)   
+We will work on a fix for this in later updates.  
+
 ## Support
 Make sure to read the documentation - this will avoid repeated questions.
 If still having problem then send us an email or direct message on twitter.  
 
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
-
 
 ## Disclaimer
 Börsdata and the information contained herein is not intended to be a source of advice or credit analysis with respect to the material presented, and the information and/or documents contained in this website do not constitute investment advice.  
