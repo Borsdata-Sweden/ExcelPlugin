@@ -93,5 +93,10 @@ Börsdata cannot in any way be held responsible for any investment decisions tha
 Always do your own Research.  
 
 
+## KNOWN ISSUES
+
+### Excel 2010 (v14)
+- Refresh button is not working. The API is only called once. 
+
 
 
