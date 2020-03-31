@@ -96,7 +96,8 @@ Always do your own Research.
 ## KNOWN ISSUES
 
 ### Excel 2010 (v14)
-- Refresh button is not working. The API is only called once. 
+- Refresh button is not working correct. The API is only called once.  Workaround is to save file and restart excel. Then refresh makes a new Api call.
+
 
 
 
