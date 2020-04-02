@@ -9,7 +9,6 @@ Börsdata ExcelPlugin are an extension to Börsdata API.
 In the background the ExcelPlugin calling the API to get data and formats the data to fit into excel.  
 It has the same limitations, like number of requests, as the normal API, so if you have many functions it can take some time to load all data.  
 
-Some functions in ExcelPlugin is not so easy to use and you may need to check the API documentations to understand how to call some data.
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
 ## Supported Excel versions
