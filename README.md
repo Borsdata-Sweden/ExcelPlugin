@@ -21,7 +21,7 @@ Sorry - ExcelPlugin on Mac is not working.
 
 ## Installation  
 [New Installation](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)   
-[Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#upgrade-to-new-version)
+[Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#upgrade-to-new-version-of-excel-plugin)
 
 
 ## API Key
