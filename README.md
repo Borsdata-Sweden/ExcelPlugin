@@ -95,7 +95,7 @@ Börsdata cannot in any way be held responsible for any investment decisions tha
 Always do your own Research.  
 
 ## Version
-2020-04-08 V1  
+2020-04-03 V1  
 
 
 ## KNOWN ISSUES
