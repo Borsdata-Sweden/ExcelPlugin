@@ -14,7 +14,6 @@ We are happy for all feedback on how to improve the API and ExcelPlugin.
 ## Supported Excel versions
 Only windows versions.   
 Sorry - ExcelPlugin on Mac is not working.  
-- Excel 2010 (v14)
 - Excel 2013 (v15)
 - Excel 2016 (v16)
 - Excel in office 365
