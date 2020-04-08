@@ -20,7 +20,9 @@ Sorry - ExcelPlugin on Mac is not working.
 - Excel in office 365
 
 ## Installation  
-[Go to installation page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)
+[New Installation](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)   
+[Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#update-to-new-version)
+
 
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
