@@ -92,6 +92,9 @@ The user is responsible for the risk and should therefore acquire information ab
 Börsdata cannot in any way be held responsible for any investment decisions that result from the financial information on the website.
 Always do your own Research.  
 
+## Version
+2020-04-08 V1  
+
 
 ## KNOWN ISSUES
 
