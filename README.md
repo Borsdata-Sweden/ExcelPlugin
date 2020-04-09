@@ -30,6 +30,9 @@ Sorry - ExcelPlugin on Mac is not working.
 Dynamic Array has poor backward compatibility with older excel versions.    
 If you have a new Excel version with Dynamic Array then use ExcelPluginSamples_DynamicArray.xlsx.   
 If you dont have Dynamic Array then use the ExcelPluginSamples.xlsx.  
+If you open ExcelPluginSamples_DynamicArray.xlsx and see all functions like {=BD_INSTRUMENTS()} then you missing Dynamic Array and need the other file.  
+[Microsoft page about backward compatibility](https://support.microsoft.com/en-us/office/dynamic-array-formulas-in-non-dynamic-aware-excel-696e164e-306b-4282-ae9d-aa88f5502fa2)  
+
 
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
