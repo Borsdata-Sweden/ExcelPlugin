@@ -24,7 +24,7 @@ Sorry - ExcelPlugin on Mac is not working.
 
 ## Youtube (in Swedish)
 [Installation Movie](https://youtu.be/Mt_mo4VXoFI)   
-[Functions](https://youtu.be/0ylLc4Dl4h8)  
+[Functions](https://youtu.be/tVLwrZ9tl3w)  
 
 ## ExcelPluginSamples
 Dynamic Array has poor backward compatibility with older excel versions.    
