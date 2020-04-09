@@ -22,6 +22,9 @@ Sorry - ExcelPlugin on Mac is not working.
 [New Installation](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)   
 [Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#upgrade-to-new-version-of-excel-plugin)
 
+## Youtube (in Swedish)
+[Installation Movie](https://youtu.be/Mt_mo4VXoFI)   
+[Functions](https://youtu.be/0ylLc4Dl4h8)  
 
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
@@ -47,7 +50,7 @@ To get the Instrument ID (InstID) you need to call the BD_INSTRUMENTS() function
 
 ## Stockprice data
 All stockprice data is EndDay.  
-We do not offer intraday data in Excel Addin or API.
+We do not offer intraday data in API or Excel Plugin.
 
 ## Info about Report data
 https://github.com/Borsdata-Sweden/API/wiki/Reports
@@ -58,14 +61,13 @@ https://github.com/Borsdata-Sweden/API/wiki/KPI-Screener
 
 
 ## Dynamic Array
-Börsdata Excel Addin can return data to excel in two ways.  
+Börsdata Excel Plugin can return data to excel in two ways.  
 	1. Write data in cells around the formula (Old style).  
 	2. Or as Dynamic Array if you have the latest excel version that support this option.  
 
 If your Excel does not support Dynamic Array you will se a text in the support panel.
 If your Excel support Dynamic Array you can select if you like to use Dynamic Array.
-See movie to get a better description of Dynamic Array.
-Link…  
+See instruction movie to get more details about Dynamic Array.
 
 More info  
 https://support.office.com/en-us/article/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531
