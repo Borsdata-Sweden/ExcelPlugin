@@ -26,6 +26,11 @@ Sorry - ExcelPlugin on Mac is not working.
 [Installation Movie](https://youtu.be/Mt_mo4VXoFI)   
 [Functions](https://youtu.be/0ylLc4Dl4h8)  
 
+## ExcelPluginSamples
+Dynamic Array has poor backward compatibility with older excel versions.    
+If you have a new Excel version with Dynamic Array then use ExcelPluginSamples_DynamicArray.xlsx.   
+If you dont have Dynamic Array then use the ExcelPluginSamples.xlsx.  
+
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
 Only Pro Members in Nordic Country can Apply for API Key.    
