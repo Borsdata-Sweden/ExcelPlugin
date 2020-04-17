@@ -105,6 +105,10 @@ Always do your own Research.
 
 ## Version
 2020-04-10 V1  
+  
+2020-04-17 V2  
+- Fix Stockprice columns order   
+- Add BD_INSTRUMENT_SEARCH()
 
 
 ## KNOWN ISSUES
