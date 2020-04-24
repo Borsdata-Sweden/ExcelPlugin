@@ -110,6 +110,8 @@ Always do your own Research.
 - Fix Stockprice columns order   
 - Add BD_INSTRUMENT_SEARCH()
 
+2020-04-23
+- "Remove Range" parameter for NON DynamicArray users. Helper to delete old data in function.
 
 ## KNOWN ISSUES
 
