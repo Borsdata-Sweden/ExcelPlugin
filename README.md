@@ -43,6 +43,17 @@ Then Please check your accounts MyPage to see the new API Key.
 
 [Go to Api Info](https://borsdata.se/en/info/api/api_page)
 
+## Limitations
+The API has a limit of 2 calls/sec.  
+We recommend to have max 20-30 API Functions on one page.   
+This will take arund 10-15 sec to load all data.  
+If you try to load 300 different stockprices on one page you will get into trouble. 
+
+Excel is multi-threaded on each function calling API.  
+This means that each function is trying to call API and can get a timout if to many functions calls API.  
+The function is then waiting for some time and try again. One function tries 15 times before it give up.  
+You will then get an error.  if you have to many API functions on one page tyis timeout may happen.  
+
 ## Functions
 [Go to Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
 )
