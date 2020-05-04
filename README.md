@@ -112,7 +112,7 @@ Always do your own Research.
 - Add BD_INSTRUMENT_SEARCH()
 
 2020-04-23 v3
-- "Remove Range" parameter for NON DynamicArray users. Helper to delete old data in function.
+- "Remove Range" parameter for NO-DynamicArray users. Helper to delete old data in function.
 
 2020-05-04 v4
 - Faster API calls. 
