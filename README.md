@@ -21,7 +21,8 @@ Sorry - ExcelPlugin on Mac is not working.
 
 ## Installation  
 [New Installation](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)   
-[Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#upgrade-to-new-version-of-excel-plugin)
+[Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#upgrade-to-new-version-of-excel-plugin)     
+[Problems? Check our page for common errors.](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Error-help)     
 
 ## Youtube (in Swedish)
 [Installation Movie](https://youtu.be/Mt_mo4VXoFI)   
@@ -93,8 +94,9 @@ This means that Date is returned as a numeric value and you need to select cells
 We will work on a fix for this in later updates.  
 
 ## Support
-Make sure to read the documentation - this will avoid repeated questions.
-If still having problem then send us an email or direct message on twitter.  
+Make sure to read the documentation - this will avoid repeated questions.   
+[Check our page for common errors.](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Error-help)   
+If still having problem then send us an email or direct message on twitter.   
 
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
