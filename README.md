@@ -108,17 +108,23 @@ Börsdata cannot in any way be held responsible for any investment decisions tha
 Always do your own Research.  
 
 ## Version
-2020-04-10 V1  
-  
-2020-04-17 V2  
+
+### 2020-04-10 V1  
+- Release
+
+### 2020-04-17 V2  
 - Fix Stockprice columns order   
 - Add BD_INSTRUMENT_SEARCH()
 
-2020-04-23 v3
+### 2020-04-23 v3
 - "Remove Range" parameter for NO-DynamicArray users. Helper to delete old data in function.
 
-2020-05-04 v4
+### 2020-05-04 v4
 - Faster API calls. 
+
+### 2020-11-10 V5
+- Moved Spreadsheet logic to Backend.
+- Bug fixes. Datetime Format and Summary Quarter.
 
 
 ## KNOWN ISSUES
