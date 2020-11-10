@@ -12,6 +12,11 @@ It has the same limitations, like number of requests, as the normal API, so if y
 
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
+## V5 Breaking Changes
+- Adding more rows into Report and Summary Data may break your existing Spreadsheet.
+- Report and Summary has one new datarow at top (Revenue, Total intäkter) and ReportDate at bottom.
+
+
 ## Supported Excel versions
 Only windows versions.   
 Sorry - ExcelPlugin on Mac is not working.  
@@ -125,6 +130,7 @@ Always do your own Research.
 ### 2020-11-10 V5
 - Moved Spreadsheet logic to Backend.
 - Bug fixes. Datetime Format and Summary Quarter.
+- Add ReportDate
 
 
 ## KNOWN ISSUES
