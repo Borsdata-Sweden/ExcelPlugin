@@ -39,7 +39,10 @@ If you have a new Excel version with Dynamic Array then use ExcelPluginSamples_D
 If you dont have Dynamic Array then use the ExcelPluginSamples.xlsx.  
 If you open ExcelPluginSamples_DynamicArray.xlsx and see all functions like {=BD_INSTRUMENTS()} then you missing Dynamic Array and need the other file.  
 [Microsoft page about backward compatibility](https://support.microsoft.com/en-us/office/dynamic-array-formulas-in-non-dynamic-aware-excel-696e164e-306b-4282-ae9d-aa88f5502fa2)  
-
+## VBA/Macro Support
+Börsdata Excel plugin has poor support for VBA and Macro.  
+The new Börsdata functions is not built or tested for VBA.  
+Please use pure Excel formulas with Börsdata Excel plugin.  
 
 ## API Key
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
@@ -54,6 +57,7 @@ Then Please check your accounts MyPage to see the new API Key.
 ## Functions
 [Go to Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
 )
+
 
 ## Plugin Buttons
 [Go to button page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Excel-Buttons)
