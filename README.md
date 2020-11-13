@@ -142,6 +142,11 @@ Always do your own Research.
 ### Excel 2010 (v14)
 - Refresh button is not working correct. The API is only called once.  Workaround is to save file and restart excel. Then refresh makes a new Api call.
 
+### Poor VBA support
+Börsdata Excel plugin has poor support for VBA and Macro.  
+The new Börsdata functions is not built or tested for VBA.  
+Please use pure Excel formulas with Börsdata Excel plugin.  
+
 
 
 
