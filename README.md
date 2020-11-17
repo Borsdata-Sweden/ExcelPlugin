@@ -135,7 +135,11 @@ Always do your own Research.
 - Moved Spreadsheet logic to Backend.
 - Bug fixes. Datetime Format and Summary Quarter.
 - Add ReportDate
+- Faster API calls
 
+### 2020-11-17 v6
+- Added Refresh All sheets Button
+- Added Refresh Pivottable Button
 
 ## KNOWN ISSUES
 
