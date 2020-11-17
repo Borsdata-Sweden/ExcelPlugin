@@ -24,6 +24,14 @@ Sorry - ExcelPlugin on Mac is not working.
 - Excel 2016 (v16)
 - Excel in office 365
 
+
+## Excel plugin for MAC is NOT working
+Sorry - Börsdata ExcelPlugin on Mac is not working.  
+Excel on Mac is not running on same core-code as Windows and Microsoft does not support .xll plugin on Mac.  
+On Mac its not possible to write plugins to Excel.  
+This is a Microsoft (Mac?) limitation.  
+
+
 ## Installation  
 [New Installation](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation)   
 [Upgrade to new version](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Installation#upgrade-to-new-version-of-excel-plugin)     
