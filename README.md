@@ -12,6 +12,12 @@ It has the same limitations, like number of requests, as the normal API, so if y
 
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
+## V7 Excel upgrade fix
+New Excel upgrade make the plugin stop working.  
+This is a fix that needs to be installed if you get this problem.  
+Excel version 16.0.13901.20366 (2021-04-14)  32bit and 64bit.  
+
+
 ## V5 Breaking Changes
 - Adding more rows into Report and Summary Data may break your existing Spreadsheet.
 - Report and Summary has one new datarow at top (Revenue, Total intäkter) and ReportDate at bottom.
