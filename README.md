@@ -23,11 +23,17 @@ This is a fix that needs to be installed if you get this problem.
 
 
 ## Supported Excel versions
-Only windows versions.   
+Only Windows Desktop versions is Supported.
 Sorry - ExcelPlugin on Mac is not working.  
+Sorry - ExcelPlugin on Office 365 Webb (Addins) is not working.
+
+Supported Windows Desktop versions
 - Excel 2013 (v15)
 - Excel 2016 (v16)
 - Excel in office 365
+
+The reason is that .xll files is a low-level windows plugin. 
+Microsoft only support this on windows.
 
 
 ## Excel plugin for MAC is NOT working
