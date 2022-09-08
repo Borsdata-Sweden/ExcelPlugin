@@ -4,7 +4,7 @@ When it's installed you get access to serveral new Excel functions to directly c
 You have access to all data from Börsdata API like Stockprices, reportdata and Kpis.  
 
 To use Börsdata ExcelPlugin you need to be a PRO Börsdata member and having an API Key.   
-API Key is only available to 12/24 month PRO members.   
+API Key is only available to min 6month PRO/PRO+ members.   
 
 Börsdata ExcelPlugin are an extension to Börsdata API.  
 In the background the ExcelPlugin calling the API to get data and formats the data to fit into excel.  
@@ -12,9 +12,13 @@ It has the same limitations, like number of requests, as the normal API, so if y
 
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
+## V8 Global data
+- Get global instruments. Stockprices, reports and Kpis.   
+- Better handling of many API calls from Excel. 
+
 ## V7 Excel upgrade fix
-Microsoft made a new Excel upgrade that broke the plugin.(Excel version 16.0.13901.20366)
-This is a fix that needs to be installed if you get this problem.  
+- Microsoft made a new Excel upgrade that broke the plugin.(Excel version 16.0.13901.20366)
+- This is a fix that needs to be installed if you get this problem.  
 
 
 ## V5 Breaking Changes
@@ -74,8 +78,7 @@ Then Please check your accounts MyPage to see the new API Key.
 
 
 ## Functions
-[Go to Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
-)
+[Go to Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions)
 
 
 ## Plugin Buttons
