@@ -13,18 +13,8 @@ It has the same limitations, like number of requests, as the normal API, so if y
 We are happy for all feedback on how to improve the API and ExcelPlugin.  
 
 ## V8 Global data
-- Get global instruments. Stockprices, reports and Kpis.   
+- Added Global instruments. Stockprices, reports and Kpis.   
 - Better handling of many API calls from Excel. 
-
-## V7 Excel upgrade fix
-- Microsoft made a new Excel upgrade that broke the plugin.(Excel version 16.0.13901.20366)
-- This is a fix that needs to be installed if you get this problem.  
-
-
-## V5 Breaking Changes
-- Adding more rows into Report and Summary Data may break your existing Spreadsheet.
-- Report and Summary has one new datarow at top (Revenue, Total intäkter) and ReportDate at bottom.
-
 
 ## Supported Excel versions
 Only Windows Desktop versions is Supported.   
@@ -156,6 +146,11 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 ### 2020-11-17 v6
 - Added Refresh All sheets Button
 - Added Refresh Pivottable Button
+
+
+### 2022-09-08 v8
+- Global instruments
+- Better handling of many API calls from Excel
 
 ## KNOWN ISSUES
 
