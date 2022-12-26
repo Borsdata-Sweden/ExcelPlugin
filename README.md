@@ -20,6 +20,7 @@ We are happy for all feedback on how to improve the API and ExcelPlugin.
 Only Windows Desktop versions is Supported.   
 * Sorry - ExcelPlugin on Mac is not working.    
 * Sorry - ExcelPlugin on Office 365 Webb (Addins) is not working.  
+* Sorry - Excel plugin for Parallels on MAC is buggy. (See below text)
 
 Supported Windows Desktop versions
 - Excel 2013 (v15)
