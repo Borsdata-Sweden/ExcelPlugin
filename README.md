@@ -40,6 +40,7 @@ This is a Microsoft (Mac?) limitation.
 ## Excel plugin for Parallels on MAC is buggy   
 If you run Parallels on MAC there is a reported bug.   
 Max 3 input parameters works. This is a problem for several call in Excelplugin.   
+Parallels and MS is informed of the bug and working on fixes.   
 https://groups.google.com/g/exceldna/c/jCee3l0lzjM  
 
 ## Installation  
