@@ -164,6 +164,15 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 - Global instruments
 - Better handling of many API calls from Excel
 
+### 2023-09-06
+- Fix addin makes Excel slow draging window
+- Instrument description 
+- Report calendar 
+- Dividend calendar 
+- Holdings Insider 
+- Holdings Shorts 
+- Holdings Buyback
+
 ## KNOWN ISSUES
 
 ### Excel 2010 (v14)
