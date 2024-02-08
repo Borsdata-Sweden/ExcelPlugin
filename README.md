@@ -178,6 +178,11 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 - Holdings Shorts 
 - Holdings Buyback
 
+### 2024-02-06
+- Added two new values to BD_Instruments()
+1. StockPriceCurrency
+2. ReportCurrency 
+
 ## KNOWN ISSUES
 
 ### Excel 2010 (v14)
