@@ -193,8 +193,13 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 
 ### Poor VBA support
 Börsdata Excel plugin has poor support for VBA and Macro.  
-The new Börsdata functions is not built or tested for VBA.  
+Börsdata functions is not built or tested for VBA.  
 Please use pure Excel formulas with Börsdata Excel plugin.  
+
+You can call Börsdata functions from VBA but this is not tested. Use on your own risk.
+Most API calls is done in new threads and queued to not starve sockets.   
+This means some API calls can take long time to get response.   
+And if you have many API calls you cannot control the order they are called.  
 
 Also check our error page.
 https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Error-help
