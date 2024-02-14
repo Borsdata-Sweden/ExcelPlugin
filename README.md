@@ -178,10 +178,13 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 - Holdings Shorts 
 - Holdings Buyback
 
-### 2024-02-06
+### 2024-02-14 (v10)
 - Added two new values to BD_Instruments()
 1. StockPriceCurrency
-2. ReportCurrency 
+2. ReportCurrency
+
+- Added Original flag to report calls.
+  This return reportdata in original currency.   
 
 ## KNOWN ISSUES
 
