@@ -17,6 +17,12 @@ MS now always block all xll files to prevent malwares.
 You need to open the file property and unblock after download new versions.    
 https://support.microsoft.com/sv-se/topic/excel-blockerar-inte-betrodda-xll-till%C3%A4gg-som-standard-1e3752e2-1177-4444-a807-7b700266a6fb
 
+## V10 Original Report data
+- Added two new values to BD_Instruments()   
+1. StockPriceCurrency
+2. ReportCurrency  
+- Added Original flag to report calls. This return reportdata in original currency.   
+
 ## V9 Holdings data
 - Holdings Insider, Shorts, Buyback
 - Instrument description
