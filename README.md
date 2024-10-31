@@ -189,8 +189,12 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 1. StockPriceCurrency
 2. ReportCurrency
 
-- Added Original flag to report calls.
-  This return reportdata in original currency.   
+3. Added Original flag to report calls.
+- This return reportdata in original currency.
+- BD_REPORT_YEAR
+- BD_REPORT_R12
+- BD_REPORT_QUARTER
+- BD_KPI_SUMMARY
 
 ## KNOWN ISSUES
 
